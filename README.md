@@ -77,6 +77,9 @@ Perfect for data science portfolios, real estate analysis, or learning advanced 
 - 📋 **Bar Charts**: Categorical feature analysis
 - 🥧 **Pie Charts**: Market composition breakdown
 
+![Visualizations](https://github.com/hoorain17/Housing-Price-Prediction/blob/main/market_dashboard.png)
+
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
